@@ -1,1 +1,6 @@
 /* file for your css */
+
+.wrong {
+    background-color: red;
+    color: white;
+}
